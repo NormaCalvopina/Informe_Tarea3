@@ -23,4 +23,6 @@ Objetivos específicos
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-05-31%20165828.png)
 
+#### Resistencia Total en Serie
+
 
