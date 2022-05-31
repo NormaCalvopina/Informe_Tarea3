@@ -39,4 +39,8 @@ Cuando dos o más fuentes de voltaje están en serie, el voltaje total es igual 
 
 Cuando todas las fuentes de voltaje están en la misma dirección en cuanto a sus polaridades, todos los voltajes tienen el mismo signo cuando se suman.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-05-31%20173557.png)
+
+Las fuentes de voltaje en serie se suman algebraicamente.
+
 
