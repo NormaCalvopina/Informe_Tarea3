@@ -43,6 +43,6 @@ Cuando todas las fuentes de voltaje están en la misma dirección en cuanto a su
 
 Las fuentes de voltaje en serie se suman algebraicamente.
 
-![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-05-31%20173557.png)
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-05-31%20173838.png)
 
 
