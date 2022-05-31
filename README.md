@@ -31,3 +31,7 @@ Objetivos específicos
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-05-31%20172527.png)
 
+#### Fuentes de Voltaje en Serie
+
+Cuando dos o más fuentes de voltaje están en serie, el voltaje total es igual a la suma algebraica de los voltajes de fuente individuales. La suma algebraica implica que las polaridades de las fuentes deben ser incluidas cuando las fuentes se combinan en serie. Las fuentes con polaridades opuestas tienen voltajes con signos opuestos.
+
