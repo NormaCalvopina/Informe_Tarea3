@@ -49,4 +49,5 @@ Las fuentes de voltaje en serie se suman algebraicamente.
 
 La ley del voltaje de Kirchhoff es una ley fundamental de circuito que establece que la suma algebraica de todos los voltajes localizados en una sola trayectoria cerrada es cero
 
-![](
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-05-31%20181050.png)
+
