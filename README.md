@@ -27,3 +27,7 @@ Objetivos específicos
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-05-31%20171054.png)
 
+#### Aplicación de la Ley de Ohm
+
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-05-31%20172527.png)
+
