@@ -89,6 +89,21 @@ Cuando se miden voltajes en varios puntos de un circuito, se puede conectar el c
 
 En un circuito en serie, una abertura impide el paso de corriente.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20111108.png)
+
+#### Cortocircuito
+
+Cuando dos elementos conductores tocan un objeto extraño, tal como soldadura o por sujeción accidental de dos alambres que conectan dos secciones de un circuito. Esta situación es particularmente común en circuitos con una alta densidad de componentes.
+
+Cuando en un circuito en serie ocurre un corto, en esencia no hay voltaje a través de la parte que está en cortocircuito
+
+## Circuitos en Paralelo (Capituo 6)
+
+Cada trayectoria para la corriente se denomina rama, y un circuito en paralelo es uno que tiene más de una rama.
+
+Si existe más de una trayectoria (rama) para la corriente entre dos puntos distintos, y si el voltaje entre dichos puntos también aparece a través de cada una de las ramas, entonces existe un circuito en paralelo entre esos dos puntos
+
+Ejemplo:
 
 
 
