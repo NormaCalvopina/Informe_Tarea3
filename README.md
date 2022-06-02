@@ -168,6 +168,10 @@ En un circuito en paralelo, la corriente total dirigida hacia la unión de las r
 
 La potencia total presente en un circuito en paralelo se encuentra sumando las potencias de todos los resistores individuales, tal como en los circuitos en serie.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20163535.png)
+
+Donde P_Tes la potencia total y P_n es la potencia en el último resistor en paralelo.
+
 
 
 
