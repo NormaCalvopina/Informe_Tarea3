@@ -75,6 +75,9 @@ Se puede verificar la ley del voltaje de Kirchhoff conectando un circuito y midi
 
 #### MEDICIONES DE VOLTAJE CON RESPECTO A TIERRA
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20110727.png)
+
+
 
 
 
