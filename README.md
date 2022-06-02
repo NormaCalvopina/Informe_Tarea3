@@ -142,6 +142,8 @@ Para determinar la resistencia total en paralelo, se suman todos los términos 1
 
 La combinación de dos resistores en paralelo ocurre comúnmente en la práctica. Asimismo, cualquier número de resistores en paralelo puede ser descompuesto en pares como una forma alterna de encontrar R_T
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20122012.png)
+
 
 
 
