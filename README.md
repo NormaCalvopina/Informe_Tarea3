@@ -125,6 +125,10 @@ Cuando se conectan resistores en paralelo, la resistencia total del circuito se 
 
 Como se sabe, cuando se conectan resistores en paralelo, la corriente dispone de más de una trayectoria. El número de trayectorias para la corriente es igual al número de ramas en paralelo
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20121351.png)
+
+#### Formula de la resistencia en paralelo
+
 
 
 
