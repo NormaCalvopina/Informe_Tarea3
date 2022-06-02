@@ -172,6 +172,8 @@ La potencia total presente en un circuito en paralelo se encuentra sumando las p
 
 Donde P_Tes la potencia total y P_n es la potencia en el último resistor en paralelo.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20163556.png)
+
 
 
 
