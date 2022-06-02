@@ -65,5 +65,10 @@ Se puede verificar la ley del voltaje de Kirchhoff conectando un circuito y midi
 
 #### Potencia en circuitos en Serie
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20110430.png)
+
+#### MEDICIONES DE VOLTAJE 
+
+
 
 
