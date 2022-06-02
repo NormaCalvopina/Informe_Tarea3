@@ -5,13 +5,13 @@ Resolución de ejercicios Capitulo 5 y 6 del Libro de Floyd (Octava edición)
 
 ### Circuitos en Paralelo (Capitulo 6)
 
-1.Objetivos 
+### 1. OBJETIVOS
 
 Objetivo General
 
 Objetivos específicos
 
-2.Marco teorico
+### 2. MARCO TEORICO
 
 ## Circuitos en Serie (Capitulo 5)
 
@@ -188,8 +188,9 @@ En un circuito en paralelo con una supuesta rama abierta, se puede medir la corr
 
 #### Localización de una rama abierta utilizando medición de resistencia
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20163956.png)
 
+### EXPLICACIÓN Y RESOLUCION DE EJERCICIOS O PROBLEMAS
 
-
-
+###  Circuitos en Serie (Capitulo 5)
 
