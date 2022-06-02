@@ -57,4 +57,8 @@ Por consiguiente, otra forma de expresar la ley del voltaje de Kirchhoff en form
 
 Se puede verificar la ley del voltaje de Kirchhoff conectando un circuito y midiendo cada voltaje de resistor y el voltaje de fuente como se ilustra en la figura. Cuando los voltajes de los resistores se suman, el resultado es el voltaje de la fuente. Se puede sumar cualquier cantidad de resistores. Los tres ejemplos siguientes utilizan la ley del voltaje de Kirchhoff para resolver problemas de circuitos.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20110143.png)
+
+#### Divisores de voltaje
+
 
