@@ -105,6 +105,7 @@ Si existe más de una trayectoria (rama) para la corriente entre dos puntos dist
 
 Ejemplo:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20111330.png)
 
 
 
