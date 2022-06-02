@@ -117,6 +117,15 @@ Ejemplo:
 
 La ley de la corriente de Kirchhoff es aplicable a corrientes que circulan por múltiples trayectorias.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20115553.png)
+
+#### Resistencia total en paralelo
+
+Cuando se conectan resistores en paralelo, la resistencia total del circuito se reduce. La resistencia total de un circuito dispuesto en paralelo siempre es menor que el valor del resistor más pequeño.
+
+Como se sabe, cuando se conectan resistores en paralelo, la corriente dispone de más de una trayectoria. El número de trayectorias para la corriente es igual al número de ramas en paralelo
+
+
 
 
 
