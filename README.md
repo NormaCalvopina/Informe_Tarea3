@@ -83,6 +83,13 @@ Cuando se miden voltajes en varios puntos de un circuito, se puede conectar el c
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20110930.png)
 
+#### LOCALIZACIÓN DE FALLAS
+
+#### Circuito abierto
+
+En un circuito en serie, una abertura impide el paso de corriente.
+
+
 
 
 
