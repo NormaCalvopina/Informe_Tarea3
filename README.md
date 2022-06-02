@@ -144,6 +144,10 @@ La combinación de dos resistores en paralelo ocurre comúnmente en la práctica
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20122012.png)
 
+#### Determinación de un resistor en paralelo desconocido
+
+Determinación de un resistor en paralelo desconocido
+
 
 
 
