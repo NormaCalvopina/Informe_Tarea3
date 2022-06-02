@@ -111,6 +111,12 @@ Ejemplo:
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20112652.png)
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20112807.png)
+
+#### Ley de corrientes de Kirchhoff
+
+La ley de la corriente de Kirchhoff es aplicable a corrientes que circulan por múltiples trayectorias.
+
 
 
 
