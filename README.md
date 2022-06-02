@@ -148,6 +148,10 @@ La combinación de dos resistores en paralelo ocurre comúnmente en la práctica
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20122202.png)
 
+#### Fuentes de Corriente en Paralelo
+
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20144049.png)
+
 
 
 
