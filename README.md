@@ -77,6 +77,10 @@ Se puede verificar la ley del voltaje de Kirchhoff conectando un circuito y midi
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20110727.png)
 
+#### MEDICIÓN DE VOLTAJES EN VARIOS PUNTOS DE UN CIRCUITO CON RESPECTO A TIERRA.
+
+Cuando se miden voltajes en varios puntos de un circuito, se puede conectar el conector de tierra a un punto del circuito y dejarlo allí. Luego se mueve el otro conector de punto en punto al medir los voltajes.
+
 
 
 
