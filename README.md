@@ -158,6 +158,8 @@ Un circuito en paralelo actúa como divisor de corriente porque la corriente que
 
 En un circuito en paralelo, la corriente total dirigida hacia la unión de las ramas dispuestas en paralelo se divide entre las ramas. Por tanto, un circuito en paralelo actúa como divisor de corriente
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20163130.png)
+
 
 
 
