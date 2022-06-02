@@ -132,14 +132,15 @@ Como se sabe, cuando se conectan resistores en paralelo, la corriente dispone de
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20121457.png)
 
-![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20121529.png)
-
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20121510.png)
 
 Para determinar la resistencia total en paralelo, se suman todos los términos 1/R (o conductancia, G) y luego se toma el recíproco de la suma:
 
-
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20121529.png)
+
+#### El caso de dos resistores en paralelo
+
+La combinación de dos resistores en paralelo ocurre comúnmente en la práctica. Asimismo, cualquier número de resistores en paralelo puede ser descompuesto en pares como una forma alterna de encontrar R_T
 
 
 
