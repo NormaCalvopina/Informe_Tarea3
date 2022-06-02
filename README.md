@@ -160,6 +160,9 @@ En un circuito en paralelo, la corriente total dirigida hacia la unión de las r
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20163130.png)
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20163235.png)
+
+
 
 
 
