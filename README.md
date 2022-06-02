@@ -174,6 +174,19 @@ Donde P_Tes la potencia total y P_n es la potencia en el último resistor en par
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20163556.png)
 
+#### Localización de Fallas
+
+Ramas abiertas
+
+Cuando una rama en paralelo se abre, la resistencia total se incrementa, la corriente total disminuye, y la misma corriente continúa fluyendo por cada una de las trayectorias en paralelo restantes
+
+La disminución de la corriente total es igual a la cantidad de corriente que previamente circulaba por la rama abierta. Las demás corrientes de rama no cambian.
+
+#### Localización de una rama abierta utilizando medición de corriente
+
+En un circuito en paralelo con una supuesta rama abierta, se puede medir la corriente total para localizar la abertura. Cuando un resistor en paralelo se abre, la corriente total IT siempre es menor que su valor normal.
+
+#### Localización de una rama abierta utilizando medición de resistencia
 
 
 
