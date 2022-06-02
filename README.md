@@ -133,7 +133,8 @@ Como se sabe, cuando se conectan resistores en paralelo, la corriente dispone de
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20121510.png)
 
-![](
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20121457.png)
+
 
 
 
