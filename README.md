@@ -51,4 +51,6 @@ La ley del voltaje de Kirchhoff es una ley fundamental de circuito que establece
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-05-31%20181050.png)
 
+Por consiguiente, otra forma de expresar la ley del voltaje de Kirchhoff en forma de ecuación es
+
 
