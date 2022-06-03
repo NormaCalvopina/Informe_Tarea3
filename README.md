@@ -832,6 +832,8 @@ Para identificar un circuito en serie de un circuito paralelo se debe revisar lo
 
 ### 5. VIDEO
 
+https://youtu.be/3YA7OJzTHLE
+
 
 ### 6. BIBLIOGRAFIA
 
