@@ -497,6 +497,19 @@ Se debería reemplazar por una resistencia de  10kΩ
 
 2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20231415.png)
+
+Solución: De la punta 1 a 2, las resistencias en paralelo son R1, R4, R7 y R8
+
+#### SECCIÓN 6–2 Voltaje en un circuito en paralelo
+
+4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Ω? Hay cuatro resistores, todos de igual valor.
+
+Solución:
+
+Como las 4 resistencias están en paralelo el voltaje para cada resistencia es de 12V
+
+
 
 
 
