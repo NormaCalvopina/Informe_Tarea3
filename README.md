@@ -414,6 +414,8 @@ Solucion:
 
 42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20224216.png)
+
 
 
 
