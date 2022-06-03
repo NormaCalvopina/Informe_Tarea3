@@ -692,6 +692,16 @@ Aplico divisor de corriente a cada uno de los elementos resistivos en paralelo
 
 #### SECCIÓN 6–7 Divisores de corriente
 
+32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
+
+![image](https://user-images.githubusercontent.com/105259381/171788976-284aedc5-7dd6-464b-97db-073306e44fef.png)
+
+Calcular la resistencia total R_T
+
+![image](https://user-images.githubusercontent.com/105259381/171789021-37943078-581a-4af4-9713-c98a53d4bf36.png)
+
+![image](https://user-images.githubusercontent.com/105259381/171789054-71eaa2a4-cfc9-4df5-8dfb-f050ea2c8592.png)
+
 
 
 
