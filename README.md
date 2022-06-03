@@ -490,6 +490,14 @@ Se debería reemplazar por una resistencia de  10kΩ
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20231049.png)
 
 
+###  Circuitos en Paralelo (Capitulo 6)
+
+
+#### SECCIÓN 6–1 Resistores en paralelo
+
+2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
+
+
 
 
 
