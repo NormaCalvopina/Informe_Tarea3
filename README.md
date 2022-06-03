@@ -341,20 +341,14 @@ R1 = R2 = R3 = R4 = V/I = 5 V/2.23 mA = 2.24 kΩ para cada resistor.
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20200302.png)
 
-
-
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20204813.png)
 
 26.Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20200607.png)
 
-1. Sacar la resistencia equivalente de todo el circuito.
 
-Req = 1.0 kΩ + 33 kΩ + 68 kΩ + 27 kΩ + 22 kΩ = 151 kΩ
 
-2. Aplicando la Ley de Ohm encontramos la corriente.
-
-I = v/R = 9 V/151 kΩ = 0.059 mA
 
 #### SECCIÓN 5-5 Fuentes de voltaje en serie
 
