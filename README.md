@@ -404,7 +404,11 @@ Se puede cambiar la posición del interruptor en 4 posiciones
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20221505.png)
 
+Solucion:
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20221741.png)
+
+40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
 
 
 
