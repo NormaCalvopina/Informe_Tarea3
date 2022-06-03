@@ -307,6 +307,8 @@ Combinación
 
 18.En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20192054.png)
+
 
 
 
