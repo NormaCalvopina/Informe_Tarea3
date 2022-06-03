@@ -534,6 +534,8 @@ Primera Trayectoria
 
 Para calcular la corriente total se debe trazar 3 trayectorias porque es un circuito abierto
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20232745.png)
+
 
 
 
