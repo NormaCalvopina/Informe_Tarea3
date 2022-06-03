@@ -7,11 +7,27 @@ Resolución de ejercicios Capitulo 5 y 6 del Libro de Floyd (Octava edición)
 
 ### 1. OBJETIVOS
 
-Objetivo General
+#### Objetivos Genereales
 
-Objetivos específicos
+Conocer los conceptos generales de circuitos en Serie y Circuitos en Paralelo mediante la lectura y comprensión del capítulo 5 y 6 del libro de Floyd “Principios de Circuitos Eléctricos”, para luego resolver los problemas planteados en los dos capítulos.
+
+#### Objetivos Específicos
+
+•	Definir los conceptos de un circuito en Serie 
+
+•	Definir los conceptos de un circuito en Paralelo
+
+•	Identificar un circuito en Serie y un circuito en Paralelo
+
+•	Comprender los conceptos de las leyes de voltaje y corriente de Kirchhoff.
+
+•	Aplicar las leyes de voltaje y corriente de Kirchhoff en los ejercicios.
+
+•	Identificar las principales causas de aberturas y cortos que se produce en un circuito abierto y verificar las fallas que posee.
+
 
 ### 2. MARCO TEORICO
+
 
 ## Circuitos en Serie (Capitulo 5)
 
