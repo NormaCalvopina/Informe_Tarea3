@@ -376,6 +376,11 @@ Voltaje Total=  12 V - 3 V = 9 V
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20203057.png)
 
+Solución:
+
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20215123.png)
+
+34. Encuentre R1, R2 y R3 en la figura 5-82.
 
 
 
