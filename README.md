@@ -513,6 +513,15 @@ Como las 4 resistencias están en paralelo el voltaje para cada resistencia es d
 
 6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20231708.png)
+
+Solución:
+
+Se puede trazar tres corrientes:
+
+
+Primera Trayectoria
+
 
 
 
