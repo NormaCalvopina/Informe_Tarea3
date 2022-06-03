@@ -226,7 +226,28 @@ I = V/RT → I= 12 V/120 Ω → I= 0.1 A→ I= 100mA
 
 8. Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración?
 
-![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20191107.png)
+Lo que se hace es conectar la fuente de voltaje en las resistencias R1 y R4 
+
+Para medir la corriente se debe conectar en serie, para ello conectamos el multímetro en el polo positivo y el otro en el polo negativo de la resistencia R1
+
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20191334.png)
+
+#### SECCIÓN 5-3 Resistencia total en serie
+
+10. Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 Ω, 2.2 Ω, 5.6 Ω, 12 Ω, y 22 Ω. Determine la resistencia total.
+
+Resolución
+
+RT= R1+R2+R3+R4+R5
+
+RT= 1.0 Ω + 2.2 Ω + 5.6 Ω + 12 Ω + 22 Ω
+
+RT= 42.8 Ω
+
+12. Calcule la RT en cada circuito de la figura 5-71.
+
+
+
 
 
 
