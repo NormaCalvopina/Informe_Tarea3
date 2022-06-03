@@ -668,6 +668,31 @@ Aplico divisor de corriente a cada uno de los elementos resistivos en paralelo
 
 ![image](https://user-images.githubusercontent.com/105259381/171788283-534b0d14-3e08-47c6-862d-9dacae7751ab.png)
 
+![image](https://user-images.githubusercontent.com/105259381/171788449-264a0a44-58d0-4845-a861-4545728a4ace.png)
+
+Posición C
+
+Encuentro la resistencia total
+
+![image](https://user-images.githubusercontent.com/105259381/171788482-0910873b-21b8-487d-ada7-d39974381780.png)
+
+Aplico divisor de corriente a cada uno de los elementos resistivos en paralelo
+
+![image](https://user-images.githubusercontent.com/105259381/171788535-3d1592d3-69f0-4a76-863e-0d00cb5a9aca.png)
+
+![image](https://user-images.githubusercontent.com/105259381/171788569-4395eeed-6543-4606-8184-f19a688c1fa4.png)
+
+#### SECCIÓN 6–6 Fuentes de corriente en paralelo
+
+30. Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78
+
+![image](https://user-images.githubusercontent.com/105259381/171788632-9021f8ad-50d7-4964-9b26-4bda78c3ee5a.png)
+
+![image](https://user-images.githubusercontent.com/105259381/171788667-decb3a3e-8646-4043-bd18-8bbf868b8737.png)
+
+#### SECCIÓN 6–7 Divisores de corriente
+
+
 
 
 
