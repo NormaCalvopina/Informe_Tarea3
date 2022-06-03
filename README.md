@@ -551,6 +551,130 @@ Resuelvo:
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20233326.png)
 
+12. En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortocircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica.
+
+A)
+
+![image](https://user-images.githubusercontent.com/105259381/171787025-4683c217-e7c6-4875-aed0-0eaf8c25d27c.png)
+
+
+En la línea principal que abastece a la habitación una corriente de 12.916 A
+
+B)
+
+![image](https://user-images.githubusercontent.com/105259381/171787060-166ba093-5ae2-4c00-a1c5-3640176bd90b.png)
+
+
+Lo máximo que podría absorber la cuarta toma es 2.084 A sin que se queme el fusible.
+
+####  SECCIÓN 6–4 Resistencia total en paralelo
+
+14. Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determine la resistencia total.
+
+Solución:
+
+Se utiliza la formula:
+
+![image](https://user-images.githubusercontent.com/105259381/171787173-249c4430-1d03-4900-af11-62a8cd427045.png)
+
+![image](https://user-images.githubusercontent.com/105259381/171787229-8321bda9-70cc-44ad-9920-56569d0a11ff.png)
+
+16. Calcule RT en cada uno de los circuitos de la figura 6-70.
+
+![image](https://user-images.githubusercontent.com/105259381/171787267-c97fd3f8-5a87-49e6-a427-581d998c387f.png)
+
+
+![image](https://user-images.githubusercontent.com/105259381/171787317-0120249e-9134-4c4a-a31a-a1e493e0a5f2.png)
+
+18. Tres grupos, uno de cinco resistores de 470 Ω, otro de diez resistores de 100 Ω, y uno más de dos resistores de 100 Ω están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?
+
+![image](https://user-images.githubusercontent.com/105259381/171787367-0f2cdbf9-ffda-401c-a527-9853c960d6b5.png)
+
+20. Si la resistencia total en la figura 6-71 es de 389.2 Ω, ¿cuál es el valor de R2?
+
+![image](https://user-images.githubusercontent.com/105259381/171787410-e96544c4-6611-4906-a928-6ffb405edbaa.png)
+
+#### SECCIÓN 6–5 Aplicación de la ley de Ohm
+
+22. ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
+
+![image](https://user-images.githubusercontent.com/105259381/171787512-ee4231bb-31ce-41b6-ba1d-d8528ba4b7a3.png)
+
+a)
+
+![image](https://user-images.githubusercontent.com/105259381/171787569-5117f4d4-c42c-4f77-b9bf-3d6f9de8a32e.png)
+
+![image](https://user-images.githubusercontent.com/105259381/171787623-f9381d42-854c-4dbb-8b4b-deab2e1244c0.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/105259381/171787656-14e39f16-35b3-4437-8408-7353f8d7c622.png)
+
+
+24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?
+
+![image](https://user-images.githubusercontent.com/105259381/171787734-bc5c7c8e-54a1-4f43-9869-65054c088777.png)
+
+26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.
+
+![image](https://user-images.githubusercontent.com/105259381/171787768-0c80869f-0278-442e-a92a-b4dd74f7c29b.png)
+
+
+a)
+
+![image](https://user-images.githubusercontent.com/105259381/171787810-87470a80-a529-4053-8102-476053eef419.png)
+
+b) Encuentro R_T
+
+![image](https://user-images.githubusercontent.com/105259381/171787862-9aa8a68d-ac10-4ab6-9984-579701821f27.png)
+
+
+Encuentro R_1
+
+![image](https://user-images.githubusercontent.com/105259381/171787904-8e8d02ba-60f0-4850-bb88-070c1f2ecf56.png)
+
+
+Aplico divisor de corriente a cada uno de los elementos resistivos en paralelo
+
+![image](https://user-images.githubusercontent.com/105259381/171787952-0c2583ed-f879-43eb-8a6f-b3fa9c56cabe.png)
+
+
+28. Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76.
+
+![image](https://user-images.githubusercontent.com/105259381/171788004-c554fad0-c65c-43bc-aa75-3547e3fa5b76.png)
+
+Posición  A
+
+Encuentro la resistencia total
+
+![image](https://user-images.githubusercontent.com/105259381/171788094-b3cc8d56-cd51-4187-82f2-afcfb40e589b.png)
+
+
+Encuentro la corriente total 
+
+![image](https://user-images.githubusercontent.com/105259381/171788126-dfc5797f-bca0-42ac-98f9-8714963fed50.png)
+
+Aplico divisor de corriente a cada uno de los elementos resistivos en paralelo
+
+![image](https://user-images.githubusercontent.com/105259381/171788181-0bf19c57-9247-479f-b99e-291fc4c11387.png)
+
+Posición B
+
+Encuentro la resistencia total
+
+![image](https://user-images.githubusercontent.com/105259381/171788222-598b573d-dbe2-4c52-9be8-c5adbaa62ad3.png)
+
+Aplico divisor de corriente a cada uno de los elementos resistivos en paralelo
+
+![image](https://user-images.githubusercontent.com/105259381/171788283-534b0d14-3e08-47c6-862d-9dacae7751ab.png)
+
+
+
+
+
+
+
+
 
 
 
