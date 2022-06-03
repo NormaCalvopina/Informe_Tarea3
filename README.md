@@ -384,6 +384,27 @@ R2 = 0.714 kΩ
 
 26.Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20200607.png)
+
+1. Sacar la resistencia equivalente de todo el circuito.
+
+Req = 1.0 kΩ + 33 kΩ + 68 kΩ + 27 kΩ + 22 kΩ = 151 kΩ
+
+2. Aplicando la Ley de Ohm encontramos la corriente.
+
+I = v/R = 9 V/151 kΩ = 0.059 mA
+
+#### SECCIÓN 5-5 Fuentes de voltaje en serie
+
+28. El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
+
+Voltaje Total= V1 - V2
+
+Voltaje Total=  12 V - 3 V = 9 V
+
+30.Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectados estos resistores?
+
+
 
 
 
