@@ -791,13 +791,13 @@ La corriente total es:
 
 44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
 
-![image](https://user-images.githubusercontent.com/105259381/171789847-89fab435-a202-4d78-af2a-88e13a989181.png)
+![image](https://user-images.githubusercontent.com/105259381/171792387-e3ab4312-fa1a-4897-8c44-0bb1e35aa276.png)
 
 Si se ha abierto y es el resistor R_3
 
 46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
 
-![image](https://user-images.githubusercontent.com/105259381/171789891-349bc42a-0fef-48bc-8ce6-6183575aac71.png)
+![image](https://user-images.githubusercontent.com/105259381/171792513-1c54e517-f19d-4453-99c5-947c39c7f7a6.png)
 
 Esta dañado el resistor R_1
 
