@@ -350,6 +350,7 @@ R1 = R2 = R3 = R4 = V/I = 5 V/2.23 mA = 2.24 kΩ para cada resistor.
 
 
 
+
 #### SECCIÓN 5-5 Fuentes de voltaje en serie
 
 28. El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
