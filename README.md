@@ -431,7 +431,10 @@ Solucion:
 
 46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
 
-![](
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20225230.png)
+
+48. Los siguientes resistores de 1 ⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
+
 
 
 
