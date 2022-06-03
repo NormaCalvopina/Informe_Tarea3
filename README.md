@@ -317,5 +317,9 @@ Solución:
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20195359.png)
 
+#### SECCIÓN 5-4 Aplicación de la Ley de Ohm
+
+20. Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74
+
 
 
