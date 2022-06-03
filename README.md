@@ -323,9 +323,13 @@ Solución:
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20195723.png)
 
+LITERAL A 
+
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20204043.png)
 
+LITERAL B
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20204228.png)
 
 22.Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?
 
@@ -337,25 +341,8 @@ R1 = R2 = R3 = R4 = V/I = 5 V/2.23 mA = 2.24 kΩ para cada resistor.
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20200302.png)
 
-1.Calculamos el valor de R3. 
 
-R3 = v/I = 2.21 V/12.3 mA = 0.18 kΩ
 
-2. Encontrar el voltaje de R1.
-
-V = I*R = (12.3 mA)*(82 Ω) = 1.01 V
-
-3. Con los voltajes obtendremos R2.
-
-12 V = VR1 + VR2 + VR3
-
-12 V = I*R1 + I*R2 + I*R3
-
-12 V = I(R1 + R2 + R3)
-
-12 V = 12.3 mA(82 Ω + R2 + 0.18 kΩ) = 12.3 mA(0.082 kΩ + R2 + 0.18 kΩ)
-
-R2 = 0.714 kΩ
 
 26.Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
 
