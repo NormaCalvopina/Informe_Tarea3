@@ -536,6 +536,18 @@ Para calcular la corriente total se debe trazar 3 trayectorias porque es un circ
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20232745.png)
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20233029.png)
+
+#### SECCIÓN 6–3 Ley de las corrientes de Kirchhoff
+
+10. Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
+
+Solución:
+Basándome en la formula:
+
+![image](https://user-images.githubusercontent.com/105259381/171786658-4c98170a-4157-41a2-89b8-2d8e5174c360.png)
+
+Resuelvo:
 
 
 
