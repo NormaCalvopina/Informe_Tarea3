@@ -355,10 +355,7 @@ R1 = R2 = R3 = R4 = V/I = 5 V/2.23 mA = 2.24 kΩ para cada resistor.
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20214250.png)
 
-
-
-
-
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20214308.png)
 
 
 #### SECCIÓN 5-5 Fuentes de voltaje en serie
