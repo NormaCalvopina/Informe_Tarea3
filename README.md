@@ -402,6 +402,8 @@ Se puede cambiar la posición del interruptor en 4 posiciones
 
 38. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20221505.png)
+
 
 
 
