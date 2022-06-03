@@ -423,6 +423,9 @@ Solucion:
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20224452.png)
 
 
+44. Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V, y 24.6 V. La corriente extraída de la fuente debe limitarse a no más de 1 mA. El número de resistores, sus valores, y sus valores nominales de potencia en watts deben ser especificados. Se debe proporcionar un diagrama esquemático que muestre la disposición del circuito y la colocación de los resistores.
+
+
 
 
 
