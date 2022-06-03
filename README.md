@@ -449,7 +449,23 @@ R= P/I^2   → R=0.125W/(0.019 A)^2   → R= 346.26 Ω
 R= P/I^2   → R=0.25W/(0.019 A)^2   → R= 692.52 Ω 
 R= P/I^2   → R=0.5W/(0.019 A)^2   → R= 1385.04 Ω 
 
+#### SECCIÓN 5–9 Mediciones de voltaje
+
 52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
+
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20225709.png)
+
+Primero mido el voltaje en el punto A con respecto a tierra y luego el voltaje en el punto B con respecto a tierra. 
+Por tanto, R2 quedaría VR2= VB – VA
+
+#### SECCIÓN 5–10 Localización de fallas
+
+54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2
+
+En el circuito hay una abertura, por lo tanto, no hay corriente a través de las resistencias que tienen 0V. Esto quiere decir que la resistencia R2 es la que está abierta.
+
+56. ¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
+
 
 
 
