@@ -819,9 +819,19 @@ Esta dañado el resistor R_1
 
 ### 4. CONCLUSIONES
 
+Se analizo que cuando se conecta el circuito en paralelo: por ejemplo, si una de las bombillas se funde, la otra todavía queda encendida. Esto es porque la corriente necesita un camino cerrado para fluir. Si una bombilla se funde, esa parte del circuito queda abierta y la corriente no puede circular por allí, pero aún dispone de la ruta de la otra bombilla.
+
+Cuando el circuito es paralelo la corriente de la fuente se divide en cada uno de los receptores de un circuito y se suman de tal forma que, al terminar el recorrido, la corriente original retorna a la fuente. Cada elemento del circuito funciona independientemente de los demás. Ya que la corriente tiene múltiples caminos para circular, si alguno de los componentes falla, la corriente no pasa por el elemento dañado, sino que se redistribuye en los demás.
+
+Se analizó que en un circuito en serie solo hay una ruta para el flujo de corriente y que cada componente tiene la misma corriente que fluye a través de él, como lo hace en todo el circuito.
+
+Las leyes  de Kirchhoff son aquellas que describen el comportamiento de la corriente en un nodo y del voltaje alrededor de una malla que para el informe relizado fue de gran ayuda para conocer la corriente y voltaje que fluye en el circuito.
+
+Para identificar un circuito en serie de un circuito paralelo se debe revisar los extremos de las resistencias que están conectadas una con otra, es decir, están conectadas consecutivamente, de esta manera la corriente solo puede tomar un único camino. Y en paralelo los extremos de resistencias están conectados a un nodo en común, de manera que la corriente debe dividirse en las resistencias 
 
 
 ### 5. VIDEO
+
 
 ### 6. BIBLIOGRAFIA
 
