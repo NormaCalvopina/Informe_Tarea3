@@ -702,19 +702,98 @@ Calcular la resistencia total R_T
 
 ![image](https://user-images.githubusercontent.com/105259381/171789054-71eaa2a4-cfc9-4df5-8dfb-f050ea2c8592.png)
 
+34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.
+
+![image](https://user-images.githubusercontent.com/105259381/171789108-c1954598-babe-4ec1-945e-8b16deb1d8e0.png)
+
+Calcular la resistencia total R_T
+
+![image](https://user-images.githubusercontent.com/105259381/171789164-d14bac89-2a54-4073-96e3-951d71b43132.png)
+
+Aplico divisor de corriente
+
+![image](https://user-images.githubusercontent.com/105259381/171789215-fc79f5bf-68cc-42f9-b751-3413e8379c57.png)
+
+36. (a) Determine el valor requerido del resistor en derivación R_SH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Ω.
+
+(b) Encuentre el valor requerido para R_SH2 en el circuito medidor de la figura 6-50 (R_M = 50 Ω).
+
+Solucin:
+
+a)
+
+![image](https://user-images.githubusercontent.com/105259381/171789285-da274368-b2c3-478f-9788-a655701c6337.png)
+
+![image](https://user-images.githubusercontent.com/105259381/171789354-d29e1dae-3bef-4230-b1b9-54da073880d6.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/105259381/171789374-f3a5e9a5-4ca8-44c3-a349-bfbcaaf5413b.png)
+
+![image](https://user-images.githubusercontent.com/105259381/171789394-b292fb13-20a1-4e53-a875-5713e9028a75.png)
+
+38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
+
+![image](https://user-images.githubusercontent.com/105259381/171789435-f5cbd0f7-1f39-46f1-9d41-7ade1181ca4d.png)
+
+40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W.
+¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
 
 
+![image](https://user-images.githubusercontent.com/105259381/171789473-63768afc-d3c9-4399-a40e-4827060e59ec.png)
+
+Por propiedad de los circuitos en paralelos el voltaje es el mismo pero la corriente es distinta por ende se puede hacer una sustitución simple
+
+![image](https://user-images.githubusercontent.com/105259381/171789529-6ab6a58f-990b-4139-86eb-bd9d6d494aa4.png)
+
+La corriente total es:
+
+![image](https://user-images.githubusercontent.com/105259381/171789584-5cad5d8f-19c5-41cd-9bad-5010da61cfa3.png)
 
 
+42. Cierto circuito en paralelo está compuesto por resistores de sólo ½ W. La resistencia total es de 1.0 kΩ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:
+
+(a) El número de resistores 
+
+![image](https://user-images.githubusercontent.com/105259381/171789648-9455244b-31c7-4d00-b13f-08e5f8936435.png)
+
+(b) El valor de cada resistor
+
+![image](https://user-images.githubusercontent.com/105259381/171789698-8e141e23-428b-45e8-b89e-fb60563fbd6a.png)
+
+(c) La corriente en cada rama 
+
+![image](https://user-images.githubusercontent.com/105259381/171789751-8d37e3fb-a4da-422a-9d71-174feaaa1583.png)
 
 
+(d) El voltaje aplicado
+
+![image](https://user-images.githubusercontent.com/105259381/171789801-3acc0fd7-a156-40a7-82e2-5ffc43d7aea7.png)
 
 
+####  SECCIÓN 6–10 Localización de fallas
 
+44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
 
+![image](https://user-images.githubusercontent.com/105259381/171789847-89fab435-a202-4d78-af2a-88e13a989181.png)
 
+Si se ha abierto y es el resistor R_3
 
+46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
 
+![image](https://user-images.githubusercontent.com/105259381/171789891-349bc42a-0fef-48bc-8ce6-6183575aac71.png)
 
+Esta dañado el resistor R_1
 
+48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:
+
+(a) 1 y 2 
+
+(b) 2 y 3 
+
+(c) 3 y 4 
+
+(d) 1 y 4
+
+![image](https://user-images.githubusercontent.com/105259381/171790009-347f444b-39ab-47f0-bb20-e46a5c5cd4bf.png)
 
