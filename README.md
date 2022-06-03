@@ -431,7 +431,7 @@ Solucion:
 
 46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
 
-
+![](
 
 
 
