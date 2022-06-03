@@ -817,3 +817,12 @@ Esta dañado el resistor R_1
 
 ![image](https://user-images.githubusercontent.com/105259381/171790009-347f444b-39ab-47f0-bb20-e46a5c5cd4bf.png)
 
+### 4. CONCLUSIONES
+
+
+
+### 5. VIDEO
+
+### 6. BIBLIOGRAFIA
+
+Floyd Tl.  (2007) Principios de circuitos eléctricos. Monterrey: Pearson Education.
