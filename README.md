@@ -246,6 +246,67 @@ RT= 42.8 Ω
 
 12. Calcule la RT en cada circuito de la figura 5-71.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20191742.png)
+
+(a)	RT = R1 + R2 + R3
+
+RT = 1.0 kΩ + 5.6 kΩ + 2.2 kΩ 
+
+RT=  8.8 kΩ
+
+
+(b)	RT = R1 + R2 + R3 + R4
+
+RT = 4.7 Ω + 10 Ω + 12 Ω + 1.0 Ω 
+
+RT= = 27.7 Ω
+
+
+(c)	RT = R1 + R2 + R3 + R4 + R5 
+
+RT = 1.0 MΩ + 560 kΩ + 5.6 MΩ + 680 kΩ + 10 MΩ
+
+RT = 17.84 MΩ
+
+
+14. Se conectan en serie seis resistores de 56 Ω, ocho de 100 Ω, y dos de 22 Ω. ¿Cuál es la resistencia total?
+
+Resolución 
+
+RT= 6 x R1 + 8 x R2 + 2 x R3
+
+RT= 6(56 Ω) + 8(100 Ω) + 2(22 Ω)
+
+RT= 336 Ω + 800 Ω + 44 Ω
+
+RT= 1180 Ω = 1.180 kΩ
+
+
+16. Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 Ω, 100 Ω, 470 Ω, 560 Ω, 680 Ω, 1.0 kΩ, 2.2 kΩ, y 5.6 kΩ. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear una resistencia de 18 kΩ. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?
+
+
+RT= R1 + R2 + R3 + R4 + R5 + R6 + R7 + R8
+
+RT= 10 Ω + 100 Ω + 470 Ω + 560 Ω + 680 Ω + 1.0 kΩ + 2.2 kΩ + 5.6 kΩ
+
+RT= 0.010 kΩ + 0.100 kΩ + 0.470 kΩ + 0.560 kΩ + 0.680 kΩ + 1.0 kΩ + 5.6 kΩ
+
+RT= 10.62 kΩ
+
+Se requiere utilizar una resistencia de 18 kΩ
+
+RF= RN-RT
+
+RF= 18 kΩ - 10.62 kΩ
+
+RF= 7.38 kΩ
+
+Combinación 
+
+18 kΩ= = R1 + 2xR2 + R3 + R4 + 2xR5 + 2xR6 + R7 + 2xR8
+
+18.En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
+
 
 
 
