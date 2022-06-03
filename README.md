@@ -396,6 +396,8 @@ Solución:
 
 Se puede cambiar la posición del interruptor en 4 posiciones
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20221248.png)
+
 
 
 
