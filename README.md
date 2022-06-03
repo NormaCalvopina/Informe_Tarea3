@@ -466,6 +466,16 @@ En el circuito hay una abertura, por lo tanto, no hay corriente a través de las
 
 56. ¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20230237.png)
+
+Mediría la corriente a partir del voltaje e intensidad, pero sin tomar en cuenta a R2, dado que R2 resulta cero por el cortocircuito
+
+Por tanto, quedaría asi la medición I=V/R  → I= 10V/ 400 Ω →I= 25 mA
+
+58. Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo
+
+
+Como se puede observar que como se leen 15 kΩ entre las puntas 5 y 6, se puede deducir que existe un cortocircuito en las resistencias R3 y R5 
 
 
 
