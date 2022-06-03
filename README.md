@@ -435,6 +435,22 @@ Solucion:
 
 48. Los siguientes resistores de 1 ⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20225456.png)
+
+50. Cierto circuito en serie se compone de un resistor de 1 ⁄8 W, un resistor de 1 ⁄4 W, y un resistor de 1 ⁄2 W. La resistencia total es de 2400 Æ. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente:
+
+PT= P1 + P2 + P3 → PT= 1/8 W + 1/4 W + 1/2 W → PT= 0.875 W
+(a) I 
+P= I^2xR → I=√(PT/RT)  → I=√((0.875 W)/(2400 Ω))    → I= 0.019 A
+(b) VT
+VT= I x R  → VT = 0.019 A x 2400 Ω  → VT= 45.6 V
+(c) El valor de cada resistor
+R= P/I^2   → R=0.125W/(0.019 A)^2   → R= 346.26 Ω 
+R= P/I^2   → R=0.25W/(0.019 A)^2   → R= 692.52 Ω 
+R= P/I^2   → R=0.5W/(0.019 A)^2   → R= 1385.04 Ω 
+
+52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
+
 
 
 
