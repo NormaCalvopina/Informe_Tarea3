@@ -410,6 +410,10 @@ Solucion:
 
 40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20222750.png)
+
+42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería
+
 
 
 
