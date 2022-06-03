@@ -474,9 +474,18 @@ Por tanto, quedaría asi la medición I=V/R  → I= 10V/ 400 Ω →I= 25 mA
 
 58. Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20230723.png)
 
 Como se puede observar que como se leen 15 kΩ entre las puntas 5 y 6, se puede deducir que existe un cortocircuito en las resistencias R3 y R5 
 
+60. Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1 ⁄2 W. (a) ¿Qué sucedió? (b) Específicamente, ¿qué debe hacerse para arreglar el problema? (c) ¿Con qué voltaje ocurrió la falla?
+
+
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20230723.png)
+
+La resistencia R11 se ha quemado 
+
+Se debería reemplazar por una resistencia de  10kΩ 
 
 
 
