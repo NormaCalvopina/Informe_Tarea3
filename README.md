@@ -194,6 +194,8 @@ En un circuito en paralelo con una supuesta rama abierta, se puede medir la corr
 
 ###  Circuitos en Serie (Capitulo 5)
 
+#### SECCIÓN 5-1 Resistores en Serie
+
 2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20190109.png)
@@ -209,4 +211,20 @@ De la punta 4 a la 7 las resistencias están en serie
 De la punta 5 a la 6 las resistencias están en serie 
 
 4. Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68.
+
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20190109.png)
+
+Resolucion
+
+![](
+
+#### SECCIÓN 5-2 Corriente en un circuito en serie
+
+6. ¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120 Ω?
+
+I = V/RT → I= 12 V/120 Ω → I= 0.1 A→ I= 100mA
+
+8. Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración?
+
+
 
