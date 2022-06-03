@@ -196,4 +196,17 @@ En un circuito en paralelo con una supuesta rama abierta, se puede medir la corr
 
 2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.
 
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20190109.png)
+
+Resolución 
+
+De la punta 1 a la 8 las resistencias están en serie 
+
+De la punta 2 a la 3 las resistencias están en serie 
+
+De la punta 4 a la 7 las resistencias están en serie 
+
+De la punta 5 a la 6 las resistencias están en serie 
+
+4. Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68.
 
