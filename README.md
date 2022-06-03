@@ -216,7 +216,7 @@ De la punta 5 a la 6 las resistencias están en serie
 
 Resolucion
 
-![](
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20190857.png)
 
 #### SECCIÓN 5-2 Corriente en un circuito en serie
 
