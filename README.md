@@ -807,15 +807,24 @@ Esta dañado el resistor R_1
 
 48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:
 
+
+![image](https://user-images.githubusercontent.com/105259381/171790009-347f444b-39ab-47f0-bb20-e46a5c5cd4bf.png)
+
 (a) 1 y 2 
+
+No tiene conexion 
 
 (b) 2 y 3 
 
+Las resistencias que forman parte de las puntas R5, R6, R7, R8, R9, R10
+
 (c) 3 y 4 
+
+No tiene coexion 
 
 (d) 1 y 4
 
-![image](https://user-images.githubusercontent.com/105259381/171790009-347f444b-39ab-47f0-bb20-e46a5c5cd4bf.png)
+R2
 
 ### 4. CONCLUSIONES
 
