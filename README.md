@@ -323,34 +323,7 @@ Solución:
 
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20195723.png)
 
-a). RT= R1 + R2 + R3 
 
-RT= 2.2 kΩ + 5.6 kΩ + 1.0 kΩ
-
-RT= 8.8 kΩ
-
-I=V/R → I= 5.5 V/ 8.8 kΩ → I= 0.625 mA 
-
-R1: V = I*R = 0.625 mA*2.2 kΩ = 1.38 V
-
-R2: V = I*R = 0.625 mA*5.6 kΩ = 3.5 V
-
-R3: V = I*R = 0.625 mA*1.0 kΩ = 0.63 V
-
-
-b). RT= R1 + R2 + R3 
-
-RT= 1.0 MΩ + 2.2 MΩ + 560 kΩ
-
-RT= 3.76 MΩ
-
-I=V/R → I= 16 V/ 3.76 MΩ → I= 4.26 µA
-
-R1: V = I*R = 4.25x10^(-3) mA*1000 kΩ = 4.25 V
-
-R2: V = I*R = 4.25x10^(-3) mA*2200 kΩ = 9.35 V
-
-R3: V = I*R = 4.25x10^(-3) mA*560 kΩ = 2.38 V 
 
 22.Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?
 
@@ -407,6 +380,8 @@ Voltaje Total=  12 V - 3 V = 9 V
 ![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20201024.png)
 
 32.Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
+
+![](https://github.com/NormaCalvopina/Informe_Tarea3/blob/main/Imagen/Captura%20de%20pantalla%202022-06-02%20203057.png)
 
 
 
